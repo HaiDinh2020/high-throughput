@@ -25,6 +25,10 @@ java -cp target/producer2-1.0-SNAPSHOT-jar-with-dependencies.jar org.example.Con
 java -cp target/producer2-1.0-SNAPSHOT-jar-with-dependencies.jar org.example.Producer
 ```
 
+## Kết quả
+
+![output](docs/img.png)
+
 ## Cấu trúc dự án
 
 ```
